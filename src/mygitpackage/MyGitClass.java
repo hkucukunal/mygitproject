@@ -5,6 +5,9 @@ public class MyGitClass {
 		System.out.println("Version 1");
 		System.out.println("hande versiyon satir 6");
 		
+		
+		System.out.println("hande versiyon satir 9");
+		
 	}
 
 }
